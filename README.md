@@ -8,7 +8,4 @@ firebase training
 
 <h1>Demo</h1>
 
-<img src="
-https://user-images.githubusercontent.com/79763515/185217292-0d2491b4-e23c-4771-88ad-bd1efacbc06a.mov
-"/>
-
+<img src="https://user-images.githubusercontent.com/79763515/185217595-4b673840-5a00-474a-9b76-2af5197c67cc.gif"/>
